@@ -2,7 +2,7 @@
 
 Submitted by: **Ekechi Spencer**
 
-**Wishliist** is a wishlist app that helps the user keep track of what they want to buy.
+**Wishliist** is a app that helps the user keep track of what they want to buy.
 
 Time spent: **5** hours spent in total
 
